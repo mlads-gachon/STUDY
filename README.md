@@ -4,11 +4,11 @@
 ## 1기 Curriculum
 
 * 방학 (스터디)
-  * 1주차 : DS Class 1 - 데이터 전처리와 EDA
-  * 2주차 : DS Class 2 - Regression / Classification / Clustering
-  * 3주차 : DS Class 3 - Evaluation Techniques
-  * 4주차 : ML Class 1 - Perceptron과 MLP, Loss Function
-  * 5주차 : ML Class 2 - 경사하강법, Forward / Back Propagation
+  * 1주차 : DS Class 1 - 데이터 전처리와 EDA ([바로가기](https://github.com/mlads-gachon/STUDY/blob/main/lecture/MLADS%201%EC%A3%BC%EC%B0%A8.pdf))
+  * 2주차 : DS Class 2 - Regression / Classification / Clustering ([바로가기](https://github.com/mlads-gachon/STUDY/blob/main/lecture/MLADS%202%EC%A3%BC%EC%B0%A8.pdf))
+  * 3주차 : DS Class 3 - Evaluation Techniques ([바로가기](https://github.com/mlads-gachon/STUDY/blob/main/lecture/MLADS%203%EC%A3%BC%EC%B0%A8.pdf))
+  * 4주차 : ML Class 1 - Perceptron과 MLP, Loss Function ([바로가기](https://github.com/mlads-gachon/STUDY/blob/main/lecture/MLADS%204%EC%A3%BC%EC%B0%A8.pdf))
+  * 5주차 : ML Class 2 - 경사하강법, Forward / Back Propagation ([바로가기](https://github.com/mlads-gachon/STUDY/blob/main/lecture/MLADS%205%EC%A3%BC%EC%B0%A8.pdf))
   * 6주차 : ML Class 3 - Optimization & Overfitting Prevention
     
 * 2학기
